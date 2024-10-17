@@ -47,7 +47,8 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanKrohin&show_icons=true&theme=dark)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKrohin&layout=compact&theme=dark&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKrohin&layout=compact&theme=dark&hide=html,jupyter%20notebook)
+
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanKrohin&theme=dark)
