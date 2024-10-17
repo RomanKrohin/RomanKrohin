@@ -50,8 +50,8 @@
 ## 📊 GitHub Profile Summary
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKrohin&theme=dracula)
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKrohin&layout=compact&theme=dark&hide=html,jupyter%20notebook,shell,batchfile,powershell)
+## 📊 GitHub Repo Card
+![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanKrohin&repo=your-repo&theme=dark)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanKrohin&theme=dark)
