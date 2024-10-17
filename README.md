@@ -50,13 +50,13 @@
 ## 📊 GitHub Profile Summary
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKrohin&theme=dracula)
 
-## 📊 GitHub Repo Card
-![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanKrohin&repo=your-repo&theme=dark)
+## 📈 GitHub Stats with Top Languages
+![GitHub Stats with Top Languages](https://github-readme-stats.vercel.app/api?username=RomanKrohin&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanKrohin&theme=dark)
 
-## 📊 GitHub Repo Card
-![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanKrohin&repo=your-repo&theme=dark)
+## 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=RomanKrohin&theme=darkhub)
 
 
