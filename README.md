@@ -56,6 +56,7 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanKrohin&theme=dark)
 
-## 🐍 GitHub Contribution Snake
-![GitHub Contribution Snake](https://github.com/RomanKrohin/RomanKrohin/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Repo Card
+![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanKrohin&repo=your-repo&theme=dark)
+
 
