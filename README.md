@@ -1,5 +1,10 @@
 ## Hello there, I'm Roman 👋
 
+## 📫 Contact Me
+- CV: [My CV](https://drive.google.com/file/d/1qbfzPRvZ3If6BYz9QvHc6BVyhcWdBB-T/view?usp=sharing)
+- Telegram: [My Telegam Profile](t.me/@roman_krohin)
+- Email: [My Email Addres](mailto:romankrohin126@gmail.com)
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages:
@@ -54,8 +59,3 @@
 
 ## 📊 GitHub Profile Summary
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKrohin&theme=dracula)
-
-## 📫 Contact Me
-- CV: [My CV](https://drive.google.com/file/d/1qbfzPRvZ3If6BYz9QvHc6BVyhcWdBB-T/view?usp=sharing)
-- Telegram: [My Telegam Profile](t.me/@roman_krohin)
-- Email: [My Email Addres](mailto:romankrohin126@gmail.com)
