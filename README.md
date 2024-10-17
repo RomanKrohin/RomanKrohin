@@ -47,14 +47,13 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanKrohin&show_icons=true&theme=dark)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKrohin&layout=compact&theme=dark&hide=html,jupyter%20notebook,kotlin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKrohin&layout=compact&theme=dark&hide=html,jupyter%20notebook,shell)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanKrohin&theme=dark)
 
-## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RomanKrohin&theme=dracula)
-
+## 📈 GitHub Contributions
+![GitHub Contributions](https://github-contributions.vercel.app/api?username=RomanKrohin&theme=dark)
 
 ## 📫 Contact Me
 - CV: [My CV](https://drive.google.com/file/d/1qbfzPRvZ3If6BYz9QvHc6BVyhcWdBB-T/view?usp=sharing)
