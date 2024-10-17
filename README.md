@@ -47,9 +47,8 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanKrohin&show_icons=true&theme=dark)
+## 📊 GitHub Profile Summary
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKrohin&theme=dracula)
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKrohin&layout=compact&theme=dark&hide=html,jupyter%20notebook,shell)
@@ -57,5 +56,5 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomanKrohin&theme=dark)
 
-## 📊 GitHub Profile Summary
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKrohin&theme=dracula)
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanKrohin&show_icons=true&theme=dark)
